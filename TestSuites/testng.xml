@@ -6,7 +6,12 @@
 		<listener class-name="companytim.Testcomponent.Listeners"></listener>
 		
 	</listeners>
-	<!-- Test -->
+	  <test thread-count="5" name="Submit Order Test">
+    <classes>
+       <class name="companytim.Tests.SubmitOrderTest"/>
+   
+    </classes>
+  </test> <!-- Test -->
   
   <test thread-count="5" name="Error Validation">
     <classes>
