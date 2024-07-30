@@ -11,6 +11,7 @@
        <class name="companytim.Tests.SubmitOrderTest"/>
    
     </classes>
+	
   </test> <!-- Test -->
   
   <test thread-count="5" name="Error Validation">
@@ -19,6 +20,6 @@
     </classes>
   </test> <!-- Test -->
   
-<!-- when we run as parrallel it wasnt assigning values to where it should be so we add threadlocal -->
+<!-- when we run ass parrallel it wasnt assigning values to where it should be so we add threadlocal -->
    
 </suite> <!-- Suite -->
