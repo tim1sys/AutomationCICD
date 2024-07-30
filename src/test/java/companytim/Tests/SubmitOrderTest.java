@@ -23,7 +23,6 @@ import org.testng.annotations.Test;
 
 import companytim.pageobjectmodel.Landingpage;
 import companytim.pageobjectmodel.OrderPage;
-import companytim.pageobjectmodel.Orderpage;
 import companytim.pageobjectmodel.ProductCatalogue;
 import companytim.pageobjectmodel.checkoutpage;
 import companytim.pageobjectmodel.confirmpage;
